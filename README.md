@@ -3,4 +3,4 @@
 - Written, designed, and developed by Dylan Tran, 2021
 - Inspired by Toby Fox
 
-![test](file:///C:/Users/dylan/Downloads/e88bfa95965987634b7bbdae946b4cf7.png)
+![Combat Scene](https://github.com/dylanytran/DIVINETALE-AAD-2021/blob/main/Assets/Images/combat.png?raw=true)
