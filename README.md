@@ -4,6 +4,8 @@ A fun and unique spin-off of the 2015 hit game Undertale
 - Inspired by Toby Fox
 ### 【How to Play】
 - Download the DIVINETALE folder (You can use [DownGit](https://downgit.github.io/#/home)){:target="_blank"}
+ <a href="https://downgit.github.io/" target="_blank">Visit DownGit</a>
+
 - Run DIVINETALE.exe!
 
 ![Combat Scene](https://github.com/dylanytran/DIVINETALE-AAD-2021/blob/main/Assets/Images/combat.png?raw=true)
