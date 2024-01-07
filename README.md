@@ -1,5 +1,5 @@
 ## DIVINETALE
-### Undertale spin-off game
+### Fun spin-off of the 2015 hit game Undertale
 - Written, designed, and developed by Dylan Tran, 2021
 - Inspired by Toby Fox
 
