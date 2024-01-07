@@ -1,4 +1,4 @@
-## 【DIVINETALE】
-### Spin-off of Undertale
-Written, Designed, and Developed by Dylan Tran
-2021
+## DIVINETALE】
+### Undertale spin-off
+Written, designed, and developed by Dylan Tran
+Inspired by Toby Fox
