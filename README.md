@@ -6,7 +6,8 @@ A fun and unique spin-off of the 2015 hit game Undertale
 - Download the DIVINETALE folder (You can use [DownGit](https://downgit.github.io/#/home))
 - Run DIVINETALE.exe!
 ### 【Gameplay Demo】
-https://www.youtube.com/watch?v=dsry-GLYMhk
+[My computer science teacher playing my game](https://www.youtube.com/watch?v=dsry-GLYMhk)
+### 【Photos】
 ![Combat Scene](https://github.com/dylanytran/DIVINETALE-AAD-2021/blob/main/Assets/Images/combat.png?raw=true)
 
 ![Level](https://github.com/dylanytran/DIVINETALE-AAD-2021/blob/main/Assets/Images/level.png?raw=true)
